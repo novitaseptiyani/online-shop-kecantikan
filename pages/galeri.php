@@ -3,7 +3,7 @@
         <section class="text-center mb-5">
             <h2 class="mb-3 fw-bold">Inspiration Gallery</h2>
             <p style="margin-bottom: 3rem;">Jelajahi dan temukan gaya yang paling kamu suka!</p>
-            <img src="assets/images/galeri/BannerVeeBeauté.png" alt="Banner VeeBeauté" class="img-fluid banner-galeri">
+            <img src="assets/images/galeri/BannerVeeBeaute.png" alt="Banner VeeBeauté" class="img-fluid banner-galeri">
         </section>
         
         <section>
