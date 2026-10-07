@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-md-6 mb-4 text-center" style="margin-top: 20px;">
-                <img src="assets/images/HeroVeeBeauté.png" alt="VeeBeauté Welcome" 
+                <img src="assets/images/HeroVeeBeaute.png" alt="VeeBeauté Welcome" 
                     class="img-fluid rounded shadow" style="object-fit:">
             </div>
 
