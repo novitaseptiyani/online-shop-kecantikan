@@ -5,8 +5,10 @@ login/registrasi, pemesanan, dan panel admin.
 
 ## Tampilan
 ![Beranda](screenshots/beranda.png)
-![Katalog](screenshots/katalog.png)
+![Auth](screenshots/auth.png)
 ![Produk](screenshots/produk.png)
+![Bestseller](screenshots/bestseller.png)
+![Checkout](screenshots/checkout.png)
 
 ## Fitur Utama
 - Katalog produk berdasarkan brand dan kategori
