@@ -4,7 +4,9 @@ Website toko online produk makeup dan skincare dengan katalog produk,
 login/registrasi, pemesanan, dan panel admin.
 
 ## Tampilan
-(screenshot ditambahkan di sini)
+![Beranda](screenshots/beranda.png)
+![Katalog](screenshots/katalog.png)
+![Produk](screenshots/produk.png)
 
 ## Fitur Utama
 - Katalog produk berdasarkan brand dan kategori
